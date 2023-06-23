@@ -1,2 +1,2 @@
 # algorithms-to-solve-problem-of-spaceship-s-cook
- 2 algorithms to solve problem of spaceship’s cook has baked a zero-gravity pizza and cut it into n slices, but the lack of gravity made him clumsy and the pizza wasn’t evenly sliced; the n slices have size s1; s2; … ; sn. 
+ 2 algorithms to solve problem of spaceship’s cook has baked a zero-gravity pizza and cut it into n slices, but the lack of gravity made him clumsy and the pizza wasn’t evenly sliced; the n slices have size s1; s2; … ; sn. There are n hungry space travelers on board who each want to eat a slice of pizza. Suppose the ith traveler would be happy with any slice whose size is at least ti. Give an efficient algorithm to determine whether it is possible to distribute the pizza slices so everyone is happy.
